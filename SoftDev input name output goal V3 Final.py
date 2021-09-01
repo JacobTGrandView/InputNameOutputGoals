@@ -11,20 +11,24 @@ def print_goals():
     print('3. Quit')
     print()
 
+
 names = ['Craig', 'Danh', 'David', 'Evan', 'Gideon', 'Grant', 'Jackson', 'JacobH', 'JacobT', 'Josue', 'Madeline', 'Morgan', 'Nick']
 numbers = {}
 menu_choice = 0
 print_goals()
 
+
 while menu_choice != 3:
     menu_choice = int(input("\n\nType in a number (1-3): "))
     if menu_choice == 1:
         print("\nList of names: ", names)
-              
-             
+
     elif menu_choice == 2:
         print("Enter a name from the list")
         name = input("Name: ")
+        
+        if(name != "Craig" or "Danh"):
+            print("Name not in list, try again")
         
         if(name == 'Gideon'):
             print("As far as this class is concerned, success for me will be to successfully achieve the goals of this class, which are to be conversant with software development concepts and practically being able to apply what I have learned in the real world, and of course, to pass with flying colors ")
