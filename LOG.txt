@@ -1,0 +1,15 @@
+2021-Aug-31: 15m: Sorting through the email names and transferring them in along with their goals
+
+2021-Aug-31: 2h 30m: I originally wrote 2 different codes then combined them into one. One was super simple, enter a name and it spits out whatever but it had no other features and
+                 also didn't look very appealing. The other one had the same beginning where you could choose a number to pick what option you want but instead you entered their
+                 name and their goals rather than entering their name and seeing their goals
+
+2021-Aug-31: 1h: Figuring out Github, writing a ReadME, making the video, and transferring everything over. Was struggling for a bit but I think I've got it down now
+
+2021-Aug-31: 45m: Cleaning the code up (including what it prints), trying to make it look nicer and not all crushed together where it is ugly to look at
+
+2021-Aug-31: 30m: I was trying different things out such as removing the brackets and quotes when printing the list of names but it either would mess something else up and 
+                 work or not work
+
+2021-Aug-31: 1h: I spent here looking back at previous code I have and reviewing everything over to make sure I understood it. I tried taking certain factors from some and
+                 implementing them here
