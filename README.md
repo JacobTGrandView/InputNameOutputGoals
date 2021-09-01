@@ -2,6 +2,8 @@
  
 https://github.com/JacobTGrandView/InputNameOutputGoals
 
+#Bandicam is the video file showing a small tutorial
+
 1) Click the green button that says "Code" with the drop down arrow
 
 2) Click download zip
