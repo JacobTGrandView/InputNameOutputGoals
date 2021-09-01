@@ -23,3 +23,4 @@ Running the Software
 3) Entering two will allow you to enter a name from the list and it will show their goals for this course
 
 4) Entering three stops the program
+
